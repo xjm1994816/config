@@ -1,4 +1,5 @@
 info:
   profile: default
   from: git
-  test: bbb
+  
+test: aaa
