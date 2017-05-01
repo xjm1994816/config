@@ -2,4 +2,4 @@ info:
   profile: default
   from: git
   
-test: ddd
+test: aaa
