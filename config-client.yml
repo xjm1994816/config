@@ -2,5 +2,4 @@ info:
   profile: default
   from: git1
   
-test: bbb
-test2:1123
+test: 123
